@@ -5,13 +5,13 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Chess
 Codolio
-DeviantArt
+Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 LessWrong
 Odysee
@@ -27,7 +27,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
+Star Citizen
+Strava
 TryHackMe
 Velomania
 Weblate
@@ -40,3 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
