@@ -17,7 +17,6 @@ Hubski
 LessWrong
 Odysee
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,6 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
