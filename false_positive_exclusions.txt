@@ -5,7 +5,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BreachSta.rs Forum
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -26,10 +28,9 @@ RocketTube
 Scribd
 Shelf
 SlideShare
-Snapchat
 Splice
 Spotify
-Tenor
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -42,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
