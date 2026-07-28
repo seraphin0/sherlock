@@ -1,9 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -22,7 +24,6 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-Scribd
 Shelf
 SlideShare
 Splice
@@ -39,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
