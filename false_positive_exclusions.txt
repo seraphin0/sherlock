@@ -1,11 +1,9 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -52,4 +50,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
