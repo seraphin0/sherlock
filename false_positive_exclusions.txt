@@ -14,7 +14,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -28,11 +28,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
@@ -44,3 +41,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
