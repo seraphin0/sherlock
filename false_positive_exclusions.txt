@@ -14,7 +14,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -41,4 +41,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
