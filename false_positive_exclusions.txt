@@ -3,6 +3,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
+CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -10,12 +11,10 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -41,7 +40,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
