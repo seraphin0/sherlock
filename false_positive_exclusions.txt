@@ -2,8 +2,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-CGTrader
+BoardGameGeek
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -17,6 +17,7 @@ Hubski
 Instapaper
 ObservableHQ
 Odysee
+Outgress
 PCGamer
 Rarible
 Realmeye
