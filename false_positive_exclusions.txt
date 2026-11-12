@@ -11,10 +11,10 @@ Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
-HackerRank
 Hashnode
 Hubski
 Instapaper
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
