@@ -15,16 +15,15 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -34,7 +33,6 @@ Trakt
 TryHackMe
 Velomania
 Vero
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
