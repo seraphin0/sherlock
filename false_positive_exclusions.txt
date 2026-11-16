@@ -3,7 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -44,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
