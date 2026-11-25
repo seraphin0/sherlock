@@ -1,20 +1,20 @@
 Airliners
-AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
 Blogger
 Chatujme.cz
 Codolio
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -22,7 +22,6 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
