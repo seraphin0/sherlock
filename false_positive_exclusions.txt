@@ -1,25 +1,25 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Blogger
+CTAN
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-GitHub
 HackerNews
 Hashnode
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -30,10 +30,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
-Wikipedia
 YandexMusic
 authorSTREAM
 dailykos
